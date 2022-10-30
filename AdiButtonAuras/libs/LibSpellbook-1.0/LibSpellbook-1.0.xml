@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="core.lua"/>
+	<Script file="general.lua"/>
+	<Script file="azerite.lua"/>
+	<Script file="soulbind.lua"/>
+</Ui>
