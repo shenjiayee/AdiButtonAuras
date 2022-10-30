@@ -11,6 +11,7 @@ The original project references lib-ace3, but the latest release of ace3 (Releas
 So I changed some lines in lib-ace3. (`AceConfigDialog-3.0.lua` - after line 2002, add `Settings.RegisterAddOnCategory(subcategory)`)
 
 And there are a few of (de)buff-ids need to be replaced with the dragon-flight one, but they are in `LibPlayerSpells-1.0` and `LibItemBuffs-1.0`.
+
 So I did't folk the original repo, but create a new repo with the packaged addons instead.
 
 # Problem Still Remains
